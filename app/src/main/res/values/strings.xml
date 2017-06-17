@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BarazaKe</string>
+
+    <!-- Buttons texts-->
+    <string name="login_btn">Login</string>
+    <string name="signup_btn">Register</string>
+
+    <!--Hint texts-->
+    <string name="email_hint">Enter email</string>
+    <string name="phone_hint">Enter Phone Number</string>
+    <string name="password_hint">Enter password</string>
+
+    <!--content-->
+    <string name="login_header">Log In</string>
+    <string name="name_header">What\'s your name?</string>
+    <string name="name_explain">Using your real name makes it easier for a chief to recognize you.</string>
+    <string name="num_explain">You\'ll use this number when you log in and if you ever forget your password</string>
+    <string name="pass_explain">Remember this password.\n A password helps prevent strangers from using your account</string>
+    <string name="success_explain">Account Created Successfully!</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="placeholder_num">0712345678</string>
+    <string name="prompt_conflict">Select Nature of conflict</string>
+    <string name="report_header">Report an issue</string>
+
+
+</resources>

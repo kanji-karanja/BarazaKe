@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+       <item
+           android:id="@+id/nav_announcements"
+           android:title="Announcements"
+           android:icon="@drawable/ic_announcement2"/>
+        <item
+            android:id="@+id/map"
+            android:title="View Map"
+            android:icon="@drawable/ic_map"/>
+
+    </group>
+
+    <item android:title="Account">
+        <menu>
+            <item
+                android:id="@+id/nav_manage"
+                android:icon="@drawable/ic_menu_manage"
+                android:title=" Change Password" />
+
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Change Number" />
+        </menu>
+    </item>
+
+</menu>
